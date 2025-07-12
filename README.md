@@ -12,6 +12,7 @@
   <a href="https://linkedin.com/in/ndmontederamos"><img src="https://img.shields.io/badge/Connect-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/messaging/compose/?recipient=ndmontederamos"><img src="https://img.shields.io/badge/Message-gray?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://t.me/NDmontederamos"><img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&style=for-the-badge" /></a>
+<br>
   <a href="https://github.com/EzlikDragon"><img src="https://img.shields.io/github/followers/EzlikDragon?label=Follow&style=social" /></a>
   <a href="https://github.com/EzlikDragon"><img src="https://img.shields.io/github/stars/EzlikDragon?style=social" /></a>
   <a href="https://komarev.com/ghpvc/?username=EzlikDragon&style=flat-square&color=red"><img src="https://komarev.com/ghpvc/?username=EzlikDragon&style=flat-square&color=red" /></a>
