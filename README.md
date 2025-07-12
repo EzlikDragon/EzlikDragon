@@ -1,5 +1,17 @@
 <h1 align="center">🐉 Nicole Dominique Montederamos aka <span style="color:#f50057;">EZLIKDRAGON</span></h1>
 <p align="center">💻 Full-Stack Dev | 🛡️ Red Team Operative | 🌐 Cyber Futurist | 🎨 3D Animator-in-Training</p>
+### 🌟 Show Some Love
+<p align="center">
+  <a href="https://github.com/EzlikDragon">
+    <img src="https://img.shields.io/github/stars/EzlikDragon?style=social" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/EzlikDragon">
+    <img src="https://img.shields.io/github/followers/EzlikDragon?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=EzlikDragon&style=flat-square&color=red" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
