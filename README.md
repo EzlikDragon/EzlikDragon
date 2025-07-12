@@ -2,7 +2,7 @@
   <img src="https://github.com/EzlikDragon/EzlikDragon/blob/main/EzlikDragon.png?raw=true" alt="EzlikDragon GitHub Banner" />
 </p>
 
-<h1 align="center">🐉 <strong><span style="color:#f50057;">EZLIKDRAGON</span> | Nicole Dominique Montederamos</strong></h1>
+<h1 align="center">🐉 <strong><span style="color:#f50057;">EZLIKDRAGON</span> | NDmontederamos</strong></h1>
 <p align="center">Red Team Operator • Full-Stack Technomancer • Cybersecurity Tactician • 3D Worldbuilder</p>
 <p align="center"><i>“I don’t just build systems — I weaponize code and harden futures.”</i></p>
 
