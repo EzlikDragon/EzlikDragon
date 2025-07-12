@@ -1,7 +1,22 @@
 <h1 align="center">🐉 Nicole Dominique Montederamos aka <span style="color:#f50057;">EZLIKDRAGON</span></h1>
 <p align="center">💻 Full-Stack Dev | 🛡️ Red Team Operative | 🌐 Cyber Futurist | 🎨 3D Animator-in-Training</p>
 ### 🌟 Show Some Love
+### 📡 Connect with Me
 <p align="center">
+  <a href="https://linkedin.com/in/ndmontederamos" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://www.linkedin.com/messaging/compose/?recipient=ndmontederamos" target="_blank">
+    <img src="https://img.shields.io/badge/Message%20Me-gray?logo=linkedin&style=for-the-badge" alt="Message Me on LinkedIn" />
+  </a>
+  <a href="https://t.me/NDmontederamos" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&style=for-the-badge" alt="Telegram" />
+  </a>
+  <a href="https://github.com/EzlikDragon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" alt="GitHub Follow" />
+  </a>
+</p>
+
   <a href="https://github.com/EzlikDragon">
     <img src="https://img.shields.io/github/stars/EzlikDragon?style=social" alt="GitHub Stars" />
   </a>
