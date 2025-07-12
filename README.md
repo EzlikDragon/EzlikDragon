@@ -2,8 +2,9 @@
 <p align="center">💻 Full-Stack Dev | 🛡️ Red Team Operative | 🌐 Cyber Futurist | 🎨 3D Animator-in-Training</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EzlikDragon/EzlikDragon/main/assets/banner.svg" alt="EzlikDragon Banner"/>
+  <img src="https://github.com/EzlikDragon/EzlikDragon/blob/main/EzlikDragon.PNG?raw=true" alt="EzlikDragon GitHub Banner" />
 </p>
+
 
 ---
 
