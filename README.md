@@ -1,10 +1,12 @@
-# Cybersecurity Badges
+Hi! I'm Nicole Dominique Montederamos
+[![LinkedIn](https://www.linkedin.com/in/ndmontederamos/)
+
 
 [![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/ndmontederamos.png)](https://tryhackme.com/r/ndmontederamos)
 
 ---
 
-## My Achievements
+## My Badges
 
 ### 🛡️ SOC Operations
 [![SOC Apprentice](https://img.shields.io/badge/SOC-Apprentice-blue?style=for-the-badge&logo=shield-check&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/soc-apprentice)
@@ -24,25 +26,3 @@
 ---
 
 
----
-
-## All Badges in One Line (Compact View)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ndmontederamos-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/r/ndmontederamos) [![SOC](https://img.shields.io/badge/SOC-Apprentice-blue?style=flat-square)](https://tryhackme.com/r/ndmontederamos/badges/soc-apprentice) [![Bronze](https://img.shields.io/badge/Bronze_League-1st-orange?style=flat-square)](https://tryhackme.com/r/ndmontederamos/badges/bronze-league) [![Alert](https://img.shields.io/badge/First_Alert-Closed-green?style=flat-square)](https://tryhackme.com/r/ndmontederamos/badges/soc-sim-first-alert-closed) [![SOC Step](https://img.shields.io/badge/SOC_Step-First-purple?style=flat-square)](https://tryhackme.com/r/ndmontederamos/badges/first-step-into-soc)
-
----
-
-## Profile Statistics
-[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/ndmontederamos.png)](https://tryhackme.com/r/ndmontederamos)
-
-**Total Badges:** 4  
-**Achievement Level:** SOC Operations Focus  
-**Latest Badge:** SOC Apprentice  
-**Profile:** [ndmontederamos](https://tryhackme.com/r/ndmontederamos)
-
----
-
-## Markdown Code Examples
-
-### Basic Linked Badge
-```markdown
-[![SOC Apprentice](https://img.shields.io/badge/SOC-Apprentice-blue)](https://tryhackme.com/r/ndmontederamos/badges/soc-apprentice)
