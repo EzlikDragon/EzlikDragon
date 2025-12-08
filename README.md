@@ -1,7 +1,5 @@
 # Cybersecurity Badges
 
-## TryHackMe Profile Badge
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-ndmontederamos-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/ndmontederamos)
 [![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/ndmontederamos.png)](https://tryhackme.com/r/ndmontederamos)
 
 ---
@@ -25,14 +23,6 @@
 
 ---
 
-## Badge Details
-
-| Badge | Clickable Badge | Description | Direct Link |
-|-------|----------------|-------------|-------------|
-| **SOC Apprentice** | [![SOC](https://img.shields.io/badge/SOC_Apprentice-Earned-blue?style=flat-square)](https://tryhackme.com/r/ndmontederamos/badges/soc-apprentice) | SOC team operations | [Link](https://tryhackme.com/r/ndmontederamos/badges/soc-apprentice) |
-| **Bronze League** | [![Bronze](https://img.shields.io/badge/Bronze_League-1st_Place-orange?style=flat-square)](https://tryhackme.com/r/ndmontederamos/badges/bronze-league) | 1st place ranking | [Link](https://tryhackme.com/r/ndmontederamos/badges/bronze-league) |
-| **First Alert Closed** | [![Alert](https://img.shields.io/badge/First_Alert-Closed-green?style=flat-square)](https://tryhackme.com/r/ndmontederamos/badges/soc-sim-first-alert-closed) | Closed first alert | [Link](https://tryhackme.com/r/ndmontederamos/badges/soc-sim-first-alert-closed) |
-| **First Step into SOC** | [![First Step](https://img.shields.io/badge/First_Step_SOC-Earned-purple?style=flat-square)](https://tryhackme.com/r/ndmontederamos/badges/first-step-into-soc) | SOC fundamentals | [Link](https://tryhackme.com/r/ndmontederamos/badges/first-step-into-soc) |
 
 ---
 
