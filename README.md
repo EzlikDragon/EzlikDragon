@@ -99,6 +99,6 @@ Documenting solutions and methodologies for various TryHackMe rooms focusing on 
 ## 📫 Connect With Me
 - **LinkedIn:** [ndmontederamos](https://www.linkedin.com/in/ndmontederamos/)
 - **TryHackMe:** [ndmontederamos](https://tryhackme.com/p/ndmontederamos)
-- **Email:**[nd.montederamos@gmail.com]
+- **Email:** nd.montederamos@gmail.com
   
 - *Always open to networking, mentorship opportunities, and discussing cybersecurity!*
