@@ -33,15 +33,27 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 [![First Alert Closed](https://img.shields.io/badge/First_Alert-Closed-green?style=for-the-badge&logo=bell&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/soc-sim-first-alert-closed)
 *Closing your first security alert*
 
----
-## 🛠️ Solution
+---## 🛠️ Tools & Technologies
 
-### SIEM Tools
-[![SIEM](https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575366699)](https://tryhackme.com/room/introtosiem) **SIEM Fundamentals** - Introduction to Security Information and Event Management
+### SIEM & Security Monitoring
+[![SIEM](https://img.shields.io/badge/SIEM-Fundamentals-blue?style=flat-square&logo=shield-check&logoColor=white)](https://tryhackme.com/room/introtosiem) - Introduction to Security Information and Event Management
 
-## 🛠️ Tools
+[![Splunk](https://img.shields.io/badge/Splunk-101-orange?style=flat-square&logo=splunk&logoColor=white)](https://tryhackme.com/room/splunk101) - Hands-on experience with Splunk for log analysis and monitoring
 
-[![Splunk](https://tryhackme-images.s3.amazonaws.com/room-icons/2cc38529b8c7c0fa0207c71dcb8f990c.png)](https://tryhackme.com/room/splunk101?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=twitter&sharerId=673e41af08eaf950b9bcf0a2) **Splunk 101** - Hands-on experience with Splunk for log analysis and monitoring
+[![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-ELK_Security-yellow?style=flat-square&logo=elastic&logoColor=white)](https://tryhackme.com/room/investigatingwithelk101) - Using ELK for security investigations and log analysis
 
-### Security Analytics
-[![Elastic Stack](https://tryhackme-images.s3.amazonaws.com/room-icons/206122f33d716948bfb0ff1248467d95.png)](https://tryhackme.com/room/investigatingwithelk101?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=twitter) **Elastic Stack** - Using ELK for security investigations and log analysis
+### Cybersecurity Fundamentals
+[![Cyber Defense](https://img.shields.io/badge/Cyber_Defense-Fundamentals-green?style=flat-square&logo=lock&logoColor=white)](https://tryhackme.com/p/ndmontederamos) - Core defensive security concepts and techniques
+
+[![Network Security](https://img.shields.io/badge/Network_Security-Monitoring-red?style=flat-square&logo=network&logoColor=white)](https://tryhackme.com/p/ndmontederamos) - Network traffic analysis and security monitoring
+
+## 🛠️ Tools & Technologies
+
+[![SIEM](https://img.shields.io/badge/-SIEM-007ACC?style=flat-square&logo=datadog&logoColor=white)](https://tryhackme.com/room/introtosiem)
+[![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://tryhackme.com/room/splunk101)
+[![Elastic Stack](https://img.shields.io/badge/-Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)](https://tryhackme.com/room/investigatingwithelk101)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://tryhackme.com)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://tryhackme.com)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://tryhackme.com)
+
+**Skills:** Log Analysis · Threat Hunting · Incident Response · Security Monitoring · Network Analysis
