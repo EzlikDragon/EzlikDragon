@@ -20,8 +20,8 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 
 ### 📊 Stats
 - **Rank:** Hacker
-- **Global Ranking:** Top 6%
-- **Rooms Completed:** 50+
+- **Philippines Monthly Ranking:** #15
+- **Rooms Completed:** 25
 - **Learning Paths:** SOC Level 1, Pre Security, Cyber Defense
 
 ### 🛡️ SOC & Security Operations
