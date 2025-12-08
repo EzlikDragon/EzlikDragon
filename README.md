@@ -1,6 +1,6 @@
 ## Badges
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-ndmontederamos-red?style=flat-square&logo=tryhackme)
+![TryHackMe](<img src="https://tryhackme-badges.s3.amazonaws.com/ndmontederamos.png" alt="Your Image Badge" />)
 ![SOC Apprentice](https://img.shields.io/badge/SOC-Apprentice-blue?style=flat-square)
 ![Bronze League](https://img.shields.io/badge/Bronze_League-1st_Place-orange?style=flat-square)
 ![Alerts Closed](https://img.shields.io/badge/Alerts-Closed-green?style=flat-square)
