@@ -1,15 +1,22 @@
-Hi! I'm Nicole Dominique Montederamos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ndmontederamos/)
+# Hi! I'm Nicole Dominique Montederamos
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ndmontederamos/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/r/ndmontederamos)
 [![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/ndmontederamos.png)](https://tryhackme.com/r/ndmontederamos)
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 ---
 
-## My Badges
+## 👋 About Me
+
+I am a recent Computer Science graduate with a profound interest in technology and a dedication to solving complex problems. My academic journey has led me to develop a strong passion for cybersecurity, particularly in defensive security operations.
+
+## 🎯 Career Objective
+
+I am eager to transition into cybersecurity and am specifically aiming to join a **Security Operations Center (SOC) as a Tier 1 Analyst**. I'm seeking an opportunity where I can apply my technical knowledge, problem-solving skills, and enthusiasm for security to help protect organizations from cyber threats.
+
+---
+
+## 🏅 My Badges
 
 ### 🛡️ SOC Operations
 [![SOC Apprentice](https://img.shields.io/badge/SOC-Apprentice-blue?style=for-the-badge&logo=shield-check&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/soc-apprentice)
