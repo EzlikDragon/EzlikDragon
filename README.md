@@ -1,8 +1,8 @@
 # Hi! I'm Nicole Dominique Montederamos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ndmontederamos/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/r/ndmontederamos)
-[![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/ndmontederamos.png)](https://tryhackme.com/r/ndmontederamos)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/ndmontederamos)
+[![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/ndmontederamos.png)](https://tryhackme.com/p/ndmontederamos)
 
 ---
 
