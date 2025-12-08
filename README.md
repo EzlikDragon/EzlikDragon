@@ -47,13 +47,3 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 
 [![Network Security](https://img.shields.io/badge/Network_Security-Monitoring-red?style=flat-square&logo=network&logoColor=white)](https://tryhackme.com/p/ndmontederamos) - Network traffic analysis and security monitoring
 
-## 🛠️ Tools & Technologies
-
-[![SIEM](https://img.shields.io/badge/-SIEM-007ACC?style=flat-square&logo=datadog&logoColor=white)](https://tryhackme.com/room/introtosiem)
-[![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://tryhackme.com/room/splunk101)
-[![Elastic Stack](https://img.shields.io/badge/-Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)](https://tryhackme.com/room/investigatingwithelk101)
-[![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://tryhackme.com)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://tryhackme.com)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://tryhackme.com)
-
-**Skills:** Log Analysis · Threat Hunting · Incident Response · Security Monitoring · Network Analysis
