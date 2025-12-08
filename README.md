@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I am a recent Computer Science graduate with a profound interest in technology and a dedication to solving complex problems. My academic journey has led me to develop a strong passion for cybersecurity, particularly in defensive security operations.
+I am a recent Bachelor of Science in Information Technology graduate with a profound interest in technology and a dedication to solving complex problems. My academic journey has led me to develop a strong passion for cybersecurity, particularly in defensive security operations.
 
 ## 🎯 Career Objective
 
@@ -33,6 +33,8 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 [![First Alert Closed](https://img.shields.io/badge/First_Alert-Closed-green?style=for-the-badge&logo=bell&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/soc-sim-first-alert-closed)
 *Closing your first security alert*
 
+---
+
 #### TOOLS
 
 ### SIEM & Security Monitoring
@@ -47,3 +49,8 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 
 [![Network Security](https://img.shields.io/badge/Network_Security-Monitoring-red?style=flat-square&logo=network&logoColor=white)](https://tryhackme.com/p/ndmontederamos) - Network traffic analysis and security monitoring
 
+---
+
+### PROJECTS
+Detection Lab
+SOC Automation Project
