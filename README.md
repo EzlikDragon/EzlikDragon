@@ -34,10 +34,12 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 *Closing your first security alert*
 
 ---
-## 🛠️ Tools & Technologies
+## 🛠️ Solution
 
 ### SIEM Tools
 [![SIEM](https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575366699)](https://tryhackme.com/room/introtosiem) **SIEM Fundamentals** - Introduction to Security Information and Event Management
+
+## 🛠️ Tools
 
 [![Splunk](https://tryhackme-images.s3.amazonaws.com/room-icons/2cc38529b8c7c0fa0207c71dcb8f990c.png)](https://tryhackme.com/room/splunk101?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=twitter&sharerId=673e41af08eaf950b9bcf0a2) **Splunk 101** - Hands-on experience with Splunk for log analysis and monitoring
 
