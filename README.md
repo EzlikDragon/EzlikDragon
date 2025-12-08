@@ -14,6 +14,15 @@ I am a recent Bachelor of Science in Information Technology graduate with a prof
 
 I am eager to transition into cybersecurity and am specifically aiming to join a **Security Operations Center (SOC) as a Tier 1 Analyst**. I'm seeking an opportunity where I can apply my technical knowledge, problem-solving skills, and enthusiasm for security to help protect organizations from cyber threats.
 
+### 📈 Skills Proficiency
+
+| Domain | Skill Level | Key Tools/Technologies |
+|--------|-------------|------------------------|
+| **SIEM Operations** | Intermediate | Splunk, ELK Stack, Query Development |
+| **Network Security** | Intermediate | Wireshark, Nmap, TCP/IP |
+| **Incident Response** | Beginner-Intermediate | Log Analysis, IOC Extraction |
+| **System Security** | Intermediate | Windows/Linux Security |
+| **Scripting** | Intermediate | Python (learning), SPL |
 ---
 
 ## 🏅 TryHackMe Achievements
@@ -70,6 +79,25 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 ---
 
 ## 💻 Projects
+
+### 🔍 **Splunk Security Investigation Project: Analyzing Cyber Attack Logs**
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EzlikDragon/Splunk-Basics)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe_Room-0D0C22?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/room/investigatingwithsplunk)
+
+**Overview**: Conducted a hands-on security investigation using Splunk SIEM to analyze a simulated cyber attack in a TryHackMe lab environment. **Successfully identified and tracked attacker "a1berto" across 12,256 logs, uncovering 8 unique IOCs and reconstructing the complete attack chain in under 20 minutes.** This project demonstrates practical incident response skills and the ability to transform raw log data into actionable security intelligence.
+
+**Key Achievements**:
+- ✅ **Rapid Triage**: Identified initial compromise in <2 minutes
+- ✅ **Complete Attack Chain**: Reconstructed full attack timeline in ~10 minutes
+- ✅ **IOC Extraction**: Discovered 8 unique indicators of compromise
+- ✅ **Cross-Source Correlation**: Analyzed 5 different log source types
+
+## 📊 Investigation Timeline
+| Time Frame | Phase | Activities | Deliverables |
+|------------|-------|------------|--------------|
+| **< 2 minutes** | **Initial Detection** | - First query execution (`EventID=4720`)<br>- Immediate identification of backdoor user "A1berto" | - Compromise confirmed<br>- Initial IOC identified |
+| **~10 minutes** | **Attack Chain Reconstruction** | - Registry analysis (`EventID=13`)<br>- User impersonation investigation<br>- PowerShell activity correlation<br>- Lateral movement tracking | - Complete attack timeline<br>- All IOCs extracted<br>- Attack pattern identified |
+| **15-25 minutes** | **Complete Investigation** | - Base64 payload decoding<br>- C2 server identification<br>- Final correlation of all evidence<br>- Documentation and reporting | - Comprehensive investigation report<br>- 8 unique IOCs documented<br>- MITRE ATT&CK mapping completed |
 
 ### Detection Lab
 A home SOC lab environment for practicing threat detection, log analysis, and incident response using open-source security tools.
