@@ -33,7 +33,7 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 [![First Alert Closed](https://img.shields.io/badge/First_Alert-Closed-green?style=for-the-badge&logo=bell&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/soc-sim-first-alert-closed)
 *Closing your first security alert*
 
----## 🛠️ Tools & Technologies
+#### TOOLS
 
 ### SIEM & Security Monitoring
 [![SIEM](https://img.shields.io/badge/SIEM-Fundamentals-blue?style=flat-square&logo=shield-check&logoColor=white)](https://tryhackme.com/room/introtosiem) - Introduction to Security Information and Event Management
