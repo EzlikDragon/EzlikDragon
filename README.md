@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I am a recent Bachelor of Science in Information Technology graduate with a profound interest in technology and a dedication to solving complex problems. My academic journey has led me to develop a strong passion for cybersecurity, particularly in defensive security operations.
+I am a recent Bachelor of Science in Information Technology graduate with a profound interest in technology and a dedication to solving complex problems. My academic journey has led me to develop a strong passion for cybersecurity, particularly in defensive security operations and blue teaming.
 
 ## 🎯 Career Objective
 
@@ -16,9 +16,16 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 
 ---
 
-## 🏅 My Badges
+## 🏅 TryHackMe Achievements
 
-### 🛡️ SOC Operations
+### 📊 Stats
+- **Rank:** Hacker
+- **Global Ranking:** Top 6%
+- **Rooms Completed:** 50+
+- **Learning Paths:** SOC Level 1, Pre Security, Cyber Defense
+
+### 🛡️ SOC & Security Operations
+[![SOC Level 1 Path](https://img.shields.io/badge/SOC_Level_1_Path-Completed-success?style=for-the-badge&logo=shield-check&logoColor=white)](https://tryhackme.com/paths) - Comprehensive SOC analyst training
 [![SOC Apprentice](https://img.shields.io/badge/SOC-Apprentice-blue?style=for-the-badge&logo=shield-check&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/soc-apprentice)
 *Explored how a SOC team operates from inside*
 
@@ -29,28 +36,69 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 [![Bronze League](https://img.shields.io/badge/Bronze_League-1st_Place-orange?style=for-the-badge&logo=trophy&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/bronze-league)
 *Bronze League 1st place*
 
-### 🚨 Incident Response
+### 🚨 Incident Response & Detection
 [![First Alert Closed](https://img.shields.io/badge/First_Alert-Closed-green?style=for-the-badge&logo=bell&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/soc-sim-first-alert-closed)
 *Closing your first security alert*
 
+[![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-Intro-yellow?style=for-the-badge&logo=bug&logoColor=white)](https://tryhackme.com/module/malware-analysis)
+*Introduction to malware analysis techniques*
+
+### 🔐 Security Fundamentals
+[![Pre Security](https://img.shields.io/badge/Pre_Security-Path_Completed-blue?style=for-the-badge&logo=lock&logoColor=white)](https://tryhackme.com/paths)
+[![Intro to Cyber Security](https://img.shields.io/badge/Intro_to_Cyber_Security-Completed-green?style=for-the-badge&logo=security&logoColor=white)](https://tryhackme.com/room/introtocybersecurity)
+
 ---
 
-#### TOOLS
+## 🛠️ Technical Skills
 
 ### SIEM & Security Monitoring
-[![SIEM](https://img.shields.io/badge/SIEM-Fundamentals-blue?style=flat-square&logo=shield-check&logoColor=white)](https://tryhackme.com/room/introtosiem) - Introduction to Security Information and Event Management
+[![Splunk](https://img.shields.io/badge/Splunk-Proficient-orange?style=flat-square&logo=splunk&logoColor=white)](https://tryhackme.com/room/splunk101)
+[![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-ELK_Security-yellow?style=flat-square&logo=elastic&logoColor=white)](https://tryhackme.com/room/investigatingwithelk101)
+[![SIEM](https://img.shields.io/badge/SIEM-Fundamentals-blue?style=flat-square&logo=datadog&logoColor=white)](https://tryhackme.com/room/introtosiem)
 
-[![Splunk](https://img.shields.io/badge/Splunk-101-orange?style=flat-square&logo=splunk&logoColor=white)](https://tryhackme.com/room/splunk101) - Hands-on experience with Splunk for log analysis and monitoring
+### Network & System Security
+[![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://tryhackme.com/room/wireshark)
+[![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-000000?style=flat-square&logo=gnu&logoColor=white)](https://tryhackme.com/room/furthernmap)
+[![Linux](https://img.shields.io/badge/Linux-System_Administration-FCC624?style=flat-square&logo=linux&logoColor=black)](https://tryhackme.com/module/linux-fundamentals)
+[![Windows](https://img.shields.io/badge/Windows-Security-0078D6?style=flat-square&logo=windows&logoColor=white)](https://tryhackme.com/room/windowsfundamentals1xbx)
 
-[![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-ELK_Security-yellow?style=flat-square&logo=elastic&logoColor=white)](https://tryhackme.com/room/investigatingwithelk101) - Using ELK for security investigations and log analysis
-
-### Cybersecurity Fundamentals
-[![Cyber Defense](https://img.shields.io/badge/Cyber_Defense-Fundamentals-green?style=flat-square&logo=lock&logoColor=white)](https://tryhackme.com/p/ndmontederamos) - Core defensive security concepts and techniques
-
-[![Network Security](https://img.shields.io/badge/Network_Security-Monitoring-red?style=flat-square&logo=network&logoColor=white)](https://tryhackme.com/p/ndmontederamos) - Network traffic analysis and security monitoring
+### Cybersecurity Domains
+[![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-OSINT-FF6B6B?style=flat-square&logo=search&logoColor=white)](https://tryhackme.com/room/ohsint)
+[![Web App Security](https://img.shields.io/badge/Web_App_Security-OWASP-000000?style=flat-square&logo=webpack&logoColor=white)](https://tryhackme.com/room/owasptop10)
+[![Cryptography](https://img.shields.io/badge/Cryptography-Basics-8A2BE2?style=flat-square&logo=key&logoColor=white)](https://tryhackme.com/room/encryptioncrypto101)
 
 ---
 
-### PROJECTS
-Detection Lab
-SOC Automation Project
+## 💻 Projects
+
+### Detection Lab
+A home SOC lab environment for practicing threat detection, log analysis, and incident response using open-source security tools.
+
+### SOC Automation Project
+Developing automation scripts for common SOC tasks including log parsing, alert triage, and IOC (Indicator of Compromise) checking.
+
+### TryHackMe Write-ups
+Documenting solutions and methodologies for various TryHackMe rooms focusing on defensive security techniques.
+
+---
+
+## 📚 Currently Learning
+- Advanced SIEM querying and correlation rules
+- Threat hunting methodologies
+- Python scripting for security automation
+- Cloud security fundamentals (AWS/Azure)
+
+## 🎯 Career Goals
+1. Obtain Security+ and CySA+ certifications
+2. Gain hands-on experience in a SOC environment
+3. Specialize in threat intelligence and detection engineering
+4. Contribute to open-source security projects
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** [ndmontederamos](https://www.linkedin.com/in/ndmontederamos/)
+- **TryHackMe:** [ndmontederamos](https://tryhackme.com/p/ndmontederamos)
+- **Email:** *[Add your professional email here]*
+
+*Always open to networking, mentorship opportunities, and discussing cybersecurity!*
