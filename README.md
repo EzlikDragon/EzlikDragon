@@ -80,6 +80,38 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 
 ## 💻 Projects
 
+
+ADD THIS LINK https://github.com/EzlikDragon/ndmontederamos-HOMELAB MAKE IT CLICKABLE
+# 🛡️ HOMELAB SOC ENVIRONMENT & ATTACK SIMULATION PLATFORM
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EzlikDragon/ndmontederamos-HOMELAB)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe_Room-0D0C22?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/room/investigatingwithsplunk)
+
+A **self-contained Security Operations Center (SOC) lab environment** designed for security monitoring, threat detection, and hands-on attack simulation.  
+This platform mirrors real-world enterprise SOC workflows by combining **defensive monitoring infrastructure** with an **isolated attack network** for controlled adversary simulation.
+
+🚀 Project Goal
+
+This homelab is designed to simulate real SOC operations, not just demonstrate tools.
+Every log, alert, and attack path exists to sharpen detection, response, and analysis skills aligned with real-world security roles.
+
+---
+
+## 🎯 Architecture Objective
+
+This lab is built as a **dual-network virtual environment**:
+
+### 🔵 Monitoring Network (192.168.10.0/24)
+- Windows Server 2022 – Active Directory Domain Services
+- Windows 10 Enterprise – Endpoint telemetry & logging
+- Ubuntu Server – Splunk Enterprise SIEM
+
+### 🔴 Attack Network (Isolated Segment)
+- Kali Linux – Penetration testing and attack simulation
+
+Strict network separation ensures **realistic attack paths** while maintaining **safe containment**.
+
+---
+
 ### 🔍 **Splunk Security Investigation Project: Analyzing Cyber Attack Logs**
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EzlikDragon/Splunk-Basics)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe_Room-0D0C22?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/room/investigatingwithsplunk)
