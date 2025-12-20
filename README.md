@@ -80,8 +80,6 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 
 ## 💻 Projects
 
-
-ADD THIS LINK https://github.com/EzlikDragon/ndmontederamos-HOMELAB MAKE IT CLICKABLE
 # 🛡️ HOMELAB SOC ENVIRONMENT & ATTACK SIMULATION PLATFORM
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EzlikDragon/ndmontederamos-HOMELAB)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe_Room-0D0C22?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/room/investigatingwithsplunk)
