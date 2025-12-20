@@ -44,6 +44,8 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 ### 🏆 Competitive Achievements
 [![Bronze League](https://img.shields.io/badge/Bronze_League-1st_Place-orange?style=for-the-badge&logo=trophy&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/bronze-league)
 *Bronze League 1st place*
+[![Silver League](https://img.shields.io/badge/Bronze_League-1st_Place-orange?style=for-the-badge&logo=trophy&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/silver-league)
+*Silver League 2nd place*
 
 ### 🚨 Incident Response & Detection
 [![First Alert Closed](https://img.shields.io/badge/First_Alert-Closed-green?style=for-the-badge&logo=bell&logoColor=white)](https://tryhackme.com/r/ndmontederamos/badges/soc-sim-first-alert-closed)
