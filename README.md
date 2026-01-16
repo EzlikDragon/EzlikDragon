@@ -83,7 +83,7 @@ I am eager to transition into cybersecurity and am specifically aiming to join a
 ## 💻 Projects
 
 # 🛡️ HOMELAB SOC ENVIRONMENT & ATTACK SIMULATION PLATFORM
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EzlikDragon/ndmontederamos-HOMELAB)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NickyMontederamos/ndmontederamos-HOMELAB)
 
 
 A **self-contained Security Operations Center (SOC) lab environment** designed for security monitoring, threat detection, and hands-on attack simulation.  
@@ -113,7 +113,7 @@ Strict network separation ensures **realistic attack paths** while maintaining *
 ---
 
 ### 🔍 **Splunk Security Investigation Project: Analyzing Cyber Attack Logs**
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EzlikDragon/Splunk-Basics)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NickyMontederamos/Splunk-Basics)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe_Room-0D0C22?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/room/investigatingwithsplunk)
 
 **Overview**: Conducted a hands-on security investigation using Splunk SIEM to analyze a simulated cyber attack in a TryHackMe lab environment. **Successfully identified and tracked attacker "a1berto" across 12,256 logs, uncovering 8 unique IOCs and reconstructing the complete attack chain in under 20 minutes.** This project demonstrates practical incident response skills and the ability to transform raw log data into actionable security intelligence.
